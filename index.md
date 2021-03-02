@@ -7,3 +7,11 @@
 #
 layout: home
 ---
+
+<img src="https://raw.githubusercontent.com/joshuaybang/joshuaybang.github.io/main/images/profile-picture.png" width="400" />
+
+I am a PhD student in [Statistics](http://www.pstat.ucsb.edu/) at University of California, Santa Barbara, advised by Sang-Yun Oh.
+
+I am interested in developing robust and scalable learning algorithms for graphical models. I am inspired by how high-dimensional structures are often sparse and can be decomposed into smaller/simpler configurations.
+
+Outside of academia, I enjoy surfing, listening to jazzy music, and learning foreign languages (I speak English, 今日本語をべんきゅうしています, Я не говорю по-русски).
