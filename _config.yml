@@ -3,8 +3,8 @@ author:
   name: Joshua Bang
   email: joshuaybang [at] gmail [dot] com
 description: > # this means to ignore newlines until "show_excerpts:"
+  Nothing to see here.
 show_excerpts: false # set to true to show excerpts on the homepage
-            Nothing to see here.
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
